@@ -1,4 +1,4 @@
-In this Bot, i have scraped the facebok page details include.
+In this Bot, I have scraped the facebok page details include.
 Today's Post: The number of posts made on the Facebook page today.
 Last Post: Details about the most recent post on the Facebook page
 Total Members: The total number of members in the Facebook page/group.
